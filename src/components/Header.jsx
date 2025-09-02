@@ -27,7 +27,7 @@ const Header = () => {
             <a href="#" className="flex items-center gap-3">
               <img src={logo} alt="Company Logo" className="h-10 w-auto" />
               <div className="leading-tight">
-                <p className="text-xl font-semibold text-gray-900">YourCompany</p>
+                <p className="text-xl font-semibold text-gray-900">Mayas</p>
                 <p className="text-xs text-gray-500 tracking-wide">Science, Technology and Management</p>
               </div>
             </a>
