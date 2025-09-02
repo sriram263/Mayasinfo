@@ -41,7 +41,7 @@ const Footer = () => {
 
       <div className="bg-white border-t border-gray-200">
         <div className="container-max py-4 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <p className="text-gray-500">© {new Date().getFullYear()} YourCompany. All rights reserved.</p>
+          <p className="text-gray-500">© {new Date().getFullYear()} Mayas. All rights reserved.</p>
           <div className="flex items-center gap-4 text-gray-600">
             <a href="#" className="hover:underline">Terms</a>
             <a href="#" className="hover:underline">Cookies</a>
